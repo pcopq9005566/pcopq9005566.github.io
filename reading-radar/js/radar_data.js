@@ -32,6 +32,16 @@ var radar_data = [
 	"url":""
   },
   {
+    "name": "把时间当作朋友",
+    "pc": {
+      "r": 0,
+      "t": 139
+    },
+    "comments": "",
+    "movement": "c",
+	"url":""
+  },  
+  {
     "name": "如何高效学习",
     "pc": {
       "r": 0,
