@@ -72,7 +72,7 @@ var radar_data = [
 	"url":""
   },  
   {
-    "name": "结构思考力1",
+    "name": "结构思考力",
     "pc": {
       "r": 0,
       "t": 99
@@ -172,7 +172,7 @@ var radar_data = [
     "color" : "#1b9dc2",
     "items" : [
   {
-    "name": "数学",
+    "name": "数学简史",
     "pc": {
       "r": 0,
       "t": 68
@@ -181,7 +181,7 @@ var radar_data = [
     "movement": "c"
   },
   {
-    "name": "物理",
+    "name": "自然哲学之数学原理",
     "pc": {
       "r": 1,
       "t": 76
@@ -190,7 +190,7 @@ var radar_data = [
     "movement": "c"
   },
   {
-    "name": "化学",
+    "name": "科学的旅程",
     "pc": {
       "r": 2,
       "t": 46
@@ -199,7 +199,7 @@ var radar_data = [
     "movement": "c"
   },
   {
-    "name": "。。。",
+    "name": "组合数学",
     "pc": {
       "r": 3,
       "t": 20
@@ -223,7 +223,8 @@ var radar_data = [
     },
     "comments": "",
     "movement": "c"
-  },{
+  },
+  {
     "name": "极简欧洲史",
     "pc": {
       "r": 0,
@@ -232,6 +233,15 @@ var radar_data = [
     "comments": "",
     "movement": "c"
   },
+  {
+    "name": "社会契约论",
+    "pc": {
+      "r": 0,
+      "t": 190
+    },
+    "comments": "",
+    "movement": "c"
+  },  
   {
     "name": "未来简史",
     "pc": {
