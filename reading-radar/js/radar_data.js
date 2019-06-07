@@ -206,7 +206,35 @@ var radar_data = [
     },
     "comments": "",
     "movement": "c"
+  },
+  {
+    "name": "数学思维",
+    "pc": {
+      "r": 3,
+      "t": 30
+    },
+    "comments": "",
+    "movement": "c"
+  },
+  {
+    "name": "线性代数",
+    "pc": {
+      "r": 3,
+      "t": 20
+    },
+    "comments": "",
+    "movement": "c"
+  },
+  {
+    "name": "概率统计",
+    "pc": {
+      "r": 3,
+      "t": 40
+    },
+    "comments": "",
+    "movement": "c"
   }
+  
 ]
   },
   {   
